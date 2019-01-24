@@ -1,9 +1,8 @@
-package main
+package factorialDecomposition
 
 import (
 	"fmt"
 	"math/big"
-	"time"
 )
 
 func Decomp(n int) string {
@@ -49,12 +48,4 @@ func factorial(n int64) *big.Int {
 		result.Mul(result, big.NewInt(i))
 	}
 	return result
-}
-
-func main() {
-	st := time.Now()
-	res := Decomp(4000)
-	fin := time.Now()
-	fmt.Println(fin.Sub(st))
-	fmt.Println(res)
 }

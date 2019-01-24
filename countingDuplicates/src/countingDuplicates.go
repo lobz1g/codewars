@@ -1,11 +1,10 @@
-package main
+package countingDuplicates
 
 import (
-	"fmt"
 	"strings"
 )
 
-func duplicate_count(s1 string) int {
+func Duplicate_count(s1 string) int {
 	s1 = strings.ToLower(s1)
 	result := make(map[string]int)
 	for _, value := range s1 {
@@ -24,8 +23,4 @@ func duplicate_count(s1 string) int {
 	}
 
 	return count
-}
-
-func main() {
-	fmt.Println(duplicate_count("absaS1133a"))
 }

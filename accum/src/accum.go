@@ -1,7 +1,6 @@
-package main
+package src
 
 import (
-	"fmt"
 	"strings"
 )
 
@@ -18,8 +17,4 @@ func Accum(s string) string {
 	}
 
 	return result
-}
-
-func main() {
-	fmt.Println(Accum("cwAt"))
 }

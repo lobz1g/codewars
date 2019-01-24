@@ -1,6 +1,4 @@
-package main
-
-import "fmt"
+package splitStrings
 
 func Solution(str string) []string {
 	result := []string{}
@@ -16,8 +14,4 @@ func Solution(str string) []string {
 	}
 
 	return result
-}
-
-func main() {
-	fmt.Println(Solution("abcdef"))
 }
