@@ -1,7 +1,6 @@
-package main
+package whichAreIn
 
 import (
-	"fmt"
 	"sort"
 	"strings"
 )
@@ -28,10 +27,4 @@ func stringInSlice(a string, list []string) bool {
 		}
 	}
 	return false
-}
-
-func main() {
-	a1 := []string{}
-	a2 := []string{}
-	fmt.Println(InArray(a1, a2))
 }
