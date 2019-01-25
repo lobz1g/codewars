@@ -13,3 +13,6 @@
 
 #### 5 kyu
 - [Factorial decomposition](https://github.com/lobz1g/codewars/tree/master/factorialDecomposition)
+
+#### 3 kyu
+- [Last digit of a huge number](https://github.com/lobz1g/codewars/tree/master/lastDigitOfHugeNumber)
