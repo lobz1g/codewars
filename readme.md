@@ -12,6 +12,7 @@
 - [Counting duplicates](https://github.com/lobz1g/codewars/tree/master/countingDuplicates)
 - [Multiples of 3 or 5](https://github.com/lobz1g/codewars/tree/master/multiplesOfThreeOrFive)
 - [Sum of Digits / Digital Root](https://github.com/lobz1g/codewars/tree/master/sumOfDigits)
+- [Simple Fun #122: String Constructing](https://github.com/lobz1g/codewars/tree/master/stringConstructing)
 
 #### 5 kyu
 - [Factorial decomposition](https://github.com/lobz1g/codewars/tree/master/factorialDecomposition)
