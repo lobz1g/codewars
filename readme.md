@@ -11,6 +11,7 @@
 - [Split strings](https://github.com/lobz1g/codewars/tree/master/splitStrings)
 - [Counting duplicates](https://github.com/lobz1g/codewars/tree/master/countingDuplicates)
 - [Multiples of 3 or 5](https://github.com/lobz1g/codewars/tree/master/multiplesOfThreeOrFive)
+- [Sum of Digits / Digital Root](https://github.com/lobz1g/codewars/tree/master/sumOfDigits)
 
 #### 5 kyu
 - [Factorial decomposition](https://github.com/lobz1g/codewars/tree/master/factorialDecomposition)
