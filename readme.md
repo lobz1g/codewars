@@ -14,6 +14,7 @@
 #### 5 kyu
 - [Factorial decomposition](https://github.com/lobz1g/codewars/tree/master/factorialDecomposition)
 - [Perimeter of squares in a rectangle](https://github.com/lobz1g/codewars/tree/master/perimeterSquaresInRectangle)
+- [First non-repeating character](https://github.com/lobz1g/codewars/tree/master/firstNonRepeatinCharacter)
 
 #### 3 kyu
 - [Last digit of a huge number](https://github.com/lobz1g/codewars/tree/master/lastDigitOfHugeNumber)
