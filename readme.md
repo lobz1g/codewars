@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/lobz1g/codewars)](https://goreportcard.com/report/github.com/lobz1g/codewars)
 [![cover.run](https://cover.run/go/https:/github.com/lobz1g/codewars.svg?style=flat&tag=golang-1.10)](https://cover.run/go?tag=golang-1.10&repo=https%3A%2Fgithub.com%2Flobz1g%2Fcodewars)
 ## Solution tasks from [codewars](https://www.codewars.com)
 
