@@ -21,6 +21,7 @@
 - [Perimeter of squares in a rectangle](https://github.com/lobz1g/codewars/tree/master/perimeterSquaresInRectangle)
 - [First non-repeating character](https://github.com/lobz1g/codewars/tree/master/firstNonRepeatinCharacter)
 - [Josephus Permutation](https://github.com/lobz1g/codewars/tree/master/josephusPermutation)
+- [Directions Reduction](https://github.com/lobz1g/codewars/tree/master/directionsReduction)
 
 #### 4 kyu
 - [Strings Mix](https://github.com/lobz1g/codewars/tree/master/stringsMix)
