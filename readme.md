@@ -25,6 +25,7 @@
 
 #### 4 kyu
 - [Strings Mix](https://github.com/lobz1g/codewars/tree/master/stringsMix)
+- [Twice linear](https://github.com/lobz1g/codewars/tree/master/twiceLinear)
 
 #### 3 kyu
 - [Last digit of a huge number](https://github.com/lobz1g/codewars/tree/master/lastDigitOfHugeNumber)
