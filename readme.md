@@ -10,6 +10,7 @@
 - [Two to One](https://github.com/lobz1g/codewars/tree/master/twoToOne)
 - [A Rule of Divisibility by 7](https://github.com/lobz1g/codewars/tree/master/ruleDivisibilityBy7)
 - [Cartesian neighbors](https://github.com/lobz1g/codewars/tree/master/cartesianNeighbors)
+- [Count the Digit](https://github.com/lobz1g/codewars/tree/master/countDigit)
 
 #### 6 kyu
 - [Which are in?](https://github.com/lobz1g/codewars/tree/master/whichAreIn)
