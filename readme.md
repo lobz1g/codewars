@@ -33,6 +33,7 @@
 - [Strings Mix](https://github.com/lobz1g/codewars/tree/master/stringsMix)
 - [Twice linear](https://github.com/lobz1g/codewars/tree/master/twiceLinear)
 - [Sum by Factors](https://github.com/lobz1g/codewars/tree/master/sumFactors)
+- [Square into Squares. Protect trees!](https://github.com/lobz1g/codewars/tree/master/squareIntoSquares)
 
 #### 3 kyu
 - [Last digit of a huge number](https://github.com/lobz1g/codewars/tree/master/lastDigitOfHugeNumber)
