@@ -21,6 +21,7 @@
 - [Simple Fun #122: String Constructing](https://github.com/lobz1g/codewars/tree/master/stringConstructing)
 - [IP Validation](https://github.com/lobz1g/codewars/tree/master/IPValidation)
 - [1/n- Cycle](https://github.com/lobz1g/codewars/tree/master/cycle)
+- [WeIrD StRiNg CaSe](https://github.com/lobz1g/codewars/tree/master/WeIrDStRiNgCaSe)
 
 #### 5 kyu
 - [Factorial decomposition](https://github.com/lobz1g/codewars/tree/master/factorialDecomposition)
