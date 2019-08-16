@@ -24,6 +24,7 @@
 - [WeIrD StRiNg CaSe](https://github.com/lobz1g/codewars/tree/master/WeIrDStRiNgCaSe)
 - [Mexican Wave](https://github.com/lobz1g/codewars/tree/master/MexicanWave)
 - [Ball Upwards](https://github.com/lobz1g/codewars/tree/master/BallUpwards)
+- [Errors:histogram](https://github.com/lobz1g/codewars/tree/master/Errorshistogram)
 
 #### 5 kyu
 - [Factorial decomposition](https://github.com/lobz1g/codewars/tree/master/factorialDecomposition)
