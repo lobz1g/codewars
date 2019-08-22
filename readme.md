@@ -33,6 +33,7 @@
 - [First non-repeating character](https://github.com/lobz1g/codewars/tree/master/firstNonRepeatinCharacter)
 - [Josephus Permutation](https://github.com/lobz1g/codewars/tree/master/josephusPermutation)
 - [Directions Reduction](https://github.com/lobz1g/codewars/tree/master/directionsReduction)
+- [Valid Parentheses](https://github.com/lobz1g/codewars/tree/master/ValidParentheses)
 
 #### 4 kyu
 - [Strings Mix](https://github.com/lobz1g/codewars/tree/master/stringsMix)
