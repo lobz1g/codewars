@@ -25,6 +25,7 @@
 - [Mexican Wave](https://github.com/lobz1g/codewars/tree/master/MexicanWave)
 - [Ball Upwards](https://github.com/lobz1g/codewars/tree/master/BallUpwards)
 - [Errors:histogram](https://github.com/lobz1g/codewars/tree/master/Errorshistogram)
+- [Banker's Plan](https://github.com/lobz1g/codewars/tree/master/BankersPlan)
 
 #### 5 kyu
 - [Factorial decomposition](https://github.com/lobz1g/codewars/tree/master/factorialDecomposition)
