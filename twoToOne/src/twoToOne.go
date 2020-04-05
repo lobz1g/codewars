@@ -14,5 +14,6 @@ func TwoToOne(s1 string, s2 string) string {
 	}
 	resArr := strings.Split(res, "")
 	sort.Strings(resArr)
-	return strings.Join(resArr,"")
+
+	return strings.Join(resArr, "")
 }
