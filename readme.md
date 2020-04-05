@@ -52,6 +52,7 @@
 - [Calculating with Functions](https://github.com/lobz1g/codewars/tree/master/calculatingWithFunctions)
 - [Common Denominators](https://github.com/lobz1g/codewars/tree/master/commonDenominators)
 - [Product of consecutive Fib numbers](https://github.com/lobz1g/codewars/tree/master/productOfConsecutiveFibNumbers)
+- [Best travel](https://github.com/lobz1g/codewars/tree/master/bestTravel)
 
 #### 4 kyu
 - [Strings Mix](https://github.com/lobz1g/codewars/tree/master/stringsMix)
