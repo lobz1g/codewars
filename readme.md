@@ -40,6 +40,9 @@
 - [Highest Rank Number in an Array](https://github.com/lobz1g/codewars/tree/master/highestRankNumberOnArray)
 - [Pentabonacci](https://github.com/lobz1g/codewars/tree/master/pentabonacci)
 - [Are they the "same"?](https://github.com/lobz1g/codewars/tree/master/areTheyTheSame)
+- [Duplicate Encoder](https://github.com/lobz1g/codewars/tree/master/duplicateEncoder)
+- [Backwards Read Primes](https://github.com/lobz1g/codewars/tree/master/backwardsReadPrimes)
+- [Consonant value](https://github.com/lobz1g/codewars/tree/master/consonantValue)
 
 #### 5 kyu
 - [Factorial decomposition](https://github.com/lobz1g/codewars/tree/master/factorialDecomposition)
