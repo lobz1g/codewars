@@ -1,4 +1,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/lobz1g/codewars)](https://goreportcard.com/report/github.com/lobz1g/codewars)
+
+[![Budget](https://www.codewars.com/users/lobz1g/badges/large)](https://www.codewars.com/users/lobz1g/badges/large)
+
 ## Solution tasks from [codewars](https://www.codewars.com)
 
 ### Tasks
