@@ -1,6 +1,8 @@
 package lastDigitOfHugeNumber
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestLastDigit(t *testing.T) {
 	type args struct {

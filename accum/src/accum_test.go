@@ -1,6 +1,8 @@
 package src
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestAccum(t *testing.T) {
 	type args struct {
