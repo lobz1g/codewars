@@ -1,0 +1,5 @@
+## Simple string reversal
+
+### Link
+
+https://www.codewars.com/kata/5a71939d373c2e634200008e

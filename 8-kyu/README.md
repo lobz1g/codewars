@@ -1,0 +1,8 @@
+- [The Baum-Sweet sequence](https://github.com/lobz1g/codewars/tree/master/8-kyu/baum-sweet_sequence)
+- [Get Planet Name By ID](https://github.com/lobz1g/codewars/tree/master/8-kyu/get-planet-name-by-id)
+- [MakeUpperCase](https://github.com/lobz1g/codewars/tree/master/8-kyu/make-upper-case)
+- [Quarter of the year](https://github.com/lobz1g/codewars/tree/master/8-kyu/quarter-of-the-year)
+- [Reduce but Grow](https://github.com/lobz1g/codewars/tree/master/8-kyu/reduce-but-grow)
+- [Returning Strings](https://github.com/lobz1g/codewars/tree/master/8-kyu/returning-strings)
+- [Subtract the Sum](https://github.com/lobz1g/codewars/tree/master/8-kyu/subtract-the-sum)
+- [Twice as old](https://github.com/lobz1g/codewars/tree/master/8-kyu/twice-as-old)

@@ -1,0 +1,1 @@
+- [Last digit of a huge number](https://github.com/lobz1g/codewars/tree/master/3-kyu/last-digit-of-huge-number)
