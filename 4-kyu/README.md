@@ -3,3 +3,4 @@
 - [Strings Mix](https://github.com/lobz1g/codewars/tree/master/4-kyu/strings-mix)
 - [Sum by Factors](https://github.com/lobz1g/codewars/tree/master/4-kyu/sum-factors)
 - [Twice linear](https://github.com/lobz1g/codewars/tree/master/4-kyu/twice-linear)
+- [Hamming Numbers](./hamming-numbers)
