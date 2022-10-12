@@ -6,3 +6,4 @@
 - [Returning Strings](https://github.com/lobz1g/codewars/tree/master/8-kyu/returning-strings)
 - [Subtract the Sum](https://github.com/lobz1g/codewars/tree/master/8-kyu/subtract-the-sum)
 - [Twice as old](https://github.com/lobz1g/codewars/tree/master/8-kyu/twice-as-old)
+- [Counting sheep](https://github.com/lobz1g/codewars/tree/master/8-kyu/counting-sheep)
