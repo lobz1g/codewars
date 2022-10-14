@@ -9,3 +9,4 @@
 - [Simple string reversal](https://github.com/lobz1g/codewars/tree/master/7-kyu/simple-string-reversal)
 - [Two to One](https://github.com/lobz1g/codewars/tree/master/7-kyu/two-to-one)
 - [Xmas Tree](https://github.com/lobz1g/codewars/tree/master/7-kyu/xmas-tree)
+- [Two fighters, one winner](https://github.com/lobz1g/codewars/tree/master/7-kyu/two-fighters-one-winner)
