@@ -17,3 +17,5 @@
 #### [4 kyu](https://github.com/lobz1g/codewars/tree/master/4-kyu)
 
 #### [3 kyu](https://github.com/lobz1g/codewars/tree/master/3-kyu)
+
+#### [2 kyu](https://github.com/lobz1g/codewars/tree/master/2-kyu)
