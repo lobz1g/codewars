@@ -20,6 +20,6 @@
 - [Sum of Digits / Digital Root](https://github.com/lobz1g/codewars/tree/master/6-kyu/sum-of-digits)
 - [WeIrD StRiNg CaSe](https://github.com/lobz1g/codewars/tree/master/6-kyu/weird-string-case)
 - [Which are in?](https://github.com/lobz1g/codewars/tree/master/6-kyu/which-are-in)
-
+- [Simple Fun #305: Typist](https://github.com/lobz1g/codewars/tree/master/6-kyu/simple-fun-305-typist)
 
 - [Pentabonacci (only python)](https://github.com/lobz1g/codewars/tree/master/6-kyu/pentabonacci)
