@@ -21,5 +21,7 @@
 - [WeIrD StRiNg CaSe](https://github.com/lobz1g/codewars/tree/master/6-kyu/weird-string-case)
 - [Which are in?](https://github.com/lobz1g/codewars/tree/master/6-kyu/which-are-in)
 - [Simple Fun #305: Typist](https://github.com/lobz1g/codewars/tree/master/6-kyu/simple-fun-305-typist)
-
+- [A Rule of Divisibility by 13](https://github.com/lobz1g/codewars/tree/master/6-kyu/a-rule-of-divisibility-by-13)
+- [Calculate the area of a regular n sides polygon inside a circle of radius r](https://github.com/lobz1g/codewars/tree/master/6-kyu/calculate-the-area-of-a-regular-n-sides-polygon-inside-a-circle-of-radius-r)
+-
 - [Pentabonacci (only python)](https://github.com/lobz1g/codewars/tree/master/6-kyu/pentabonacci)
