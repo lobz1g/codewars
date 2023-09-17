@@ -11,5 +11,6 @@
 - [Valid Parentheses](https://github.com/lobz1g/codewars/tree/master/5-kyu/valid-parentheses)
 - [Pete, the baker](https://github.com/lobz1g/codewars/tree/master/5-kyu/pete-the-baker)
 - [Tic-Tac-Toe Checker](https://github.com/lobz1g/codewars/tree/master/5-kyu/tic-tac-toe-checker)
+- [Number of trailing zeros of N!](https://github.com/lobz1g/codewars/tree/master/5-kyu/number-of-trailing-zeros-of-n!)
 
 - [Calculating with Functions (only python)](https://github.com/lobz1g/codewars/tree/master/5-kyu/calculating-with-functions)

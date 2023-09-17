@@ -25,6 +25,5 @@
 - [Calculate the area of a regular n sides polygon inside a circle of radius r](https://github.com/lobz1g/codewars/tree/master/6-kyu/calculate-the-area-of-a-regular-n-sides-polygon-inside-a-circle-of-radius-r)
 - [How Much?](https://github.com/lobz1g/codewars/tree/master/6-kyu/how-much)
 - [Find the missing letter](https://github.com/lobz1g/codewars/tree/master/6-kyu/find-the-missing-letter)
-- [Number of trailing zeros of N!](https://github.com/lobz1g/codewars/tree/master/6-kyu/number-of-trailing-zeros-of-n!)
--
+
 - [Pentabonacci (only python)](https://github.com/lobz1g/codewars/tree/master/6-kyu/pentabonacci)
