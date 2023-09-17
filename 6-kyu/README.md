@@ -23,5 +23,8 @@
 - [Simple Fun #305: Typist](https://github.com/lobz1g/codewars/tree/master/6-kyu/simple-fun-305-typist)
 - [A Rule of Divisibility by 13](https://github.com/lobz1g/codewars/tree/master/6-kyu/a-rule-of-divisibility-by-13)
 - [Calculate the area of a regular n sides polygon inside a circle of radius r](https://github.com/lobz1g/codewars/tree/master/6-kyu/calculate-the-area-of-a-regular-n-sides-polygon-inside-a-circle-of-radius-r)
+- [How Much?](https://github.com/lobz1g/codewars/tree/master/6-kyu/how-much)
+- [Find the missing letter](https://github.com/lobz1g/codewars/tree/master/6-kyu/find-the-missing-letter)
+- [Number of trailing zeros of N!](https://github.com/lobz1g/codewars/tree/master/6-kyu/number-of-trailing-zeros-of-n!)
 -
 - [Pentabonacci (only python)](https://github.com/lobz1g/codewars/tree/master/6-kyu/pentabonacci)
