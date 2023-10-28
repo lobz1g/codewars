@@ -1,0 +1,5 @@
+## Factorial tail
+
+### Link
+
+https://www.codewars.com/kata/55c4eb777e07c13528000021

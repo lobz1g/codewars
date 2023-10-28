@@ -4,3 +4,4 @@
 - [Sum by Factors](https://github.com/lobz1g/codewars/tree/master/4-kyu/sum-factors)
 - [Twice linear](https://github.com/lobz1g/codewars/tree/master/4-kyu/twice-linear)
 - [Decode the Morse code, advanced](https://github.com/lobz1g/codewars/tree/master/4-kyu/decode-morse-code)
+- [Factorial tail](https://github.com/lobz1g/codewars/tree/master/4-kyu/factorial-tail)

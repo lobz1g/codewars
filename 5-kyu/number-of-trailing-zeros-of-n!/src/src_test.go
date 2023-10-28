@@ -1,6 +1,9 @@
 package src
 
-import "testing"
+import (
+	"math"
+	"testing"
+)
 
 func TestZeros(t *testing.T) {
 	tests := []struct {
@@ -27,6 +30,11 @@ func TestZeros(t *testing.T) {
 			name: "case 4",
 			n:    12,
 			want: 2,
+		},
+		{
+			name: "case 5",
+			n:    math.MaxInt - 1,
+			want: 2305843009213693937,
 		},
 	}
 	for _, tt := range tests {
